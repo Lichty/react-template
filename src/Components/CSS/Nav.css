@@ -1,0 +1,20 @@
+nav {
+    background-color: gray;
+    height: 50px;
+    box-shadow: 0px 2px 4px #000A;
+}
+
+.link {
+    display: inline-block;
+    margin: 0px 0 0 0;
+    padding: 12px 3% 14px 3%;
+    text-decoration: none;
+    color: black;
+    text-align: center;
+}
+
+.active {
+    color: White;
+    font-weight: bold;
+    border-bottom: 3px solid white;
+}
